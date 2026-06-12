@@ -4,6 +4,8 @@ A hub for a collection of from-scratch, browser-based **interactive simulations,
 
 **▶ Live:** https://andreaisabelmontana.github.io/kinetic-lab/
 
+> **Not an original idea.** This recreates the concept of an existing project — I didn't invent it. I rebuilt it from scratch, my own way, out of curiosity about how it actually works (and tried to make it a little better along the way).
+
 ## In the collection
 
 **Simulations** — [Orrery Lab](https://andreaisabelmontana.github.io/orrery-lab/) · [Event Horizon](https://andreaisabelmontana.github.io/event-horizon/) · [Ripple](https://andreaisabelmontana.github.io/ripple/) · [Antfarm](https://andreaisabelmontana.github.io/antfarm/) · [Murmuration](https://andreaisabelmontana.github.io/murmuration/) · [Strange Attractors](https://andreaisabelmontana.github.io/strange-attractors/) · [Fractal Voyager](https://andreaisabelmontana.github.io/fractal-voyager/)

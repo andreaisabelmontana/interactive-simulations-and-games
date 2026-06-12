@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kinetic Lab — interactive simulations & games</title>
+  <meta name="description" content="A collection of from-scratch browser simulations, games, and small apps — physics, chaos, gravity, fluids, and arcade play, all running live in the browser." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧪</text></svg>" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <canvas id="bg"></canvas>
+
+  <header>
+    <div class="kicker">Kinetic Lab</div>
+    <h1>Things that move in a browser.</h1>
+    <p class="lede">A collection of interactive simulations, games, and small apps — each built from scratch with no engine, no framework, and (almost) no dependencies. Physics, chaos, gravity, fluids, and play, all running live.</p>
+    <p class="count" id="count"></p>
+  </header>
+
+  <main id="sections"></main>
+
+  <footer>
+    <p>Hand-built with vanilla JavaScript, Canvas, WebGL, and a little Three.js. Open each card to run it live, or follow <em>Code</em> to the source.</p>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
